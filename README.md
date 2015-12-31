@@ -26,13 +26,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/oW6WywK' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I, unfortunately, had a lot of trouble creating this app. Mainly, I needed assistance and due to my winter work schedule I was unable to get the help I needed. The most trouble I had was with the table view controller in my attempt to create a settings menu for the app. Though I could design the settings screen, I was unable to get the table cells to move to the next view controller when clicked. 
 
 ## License
 
